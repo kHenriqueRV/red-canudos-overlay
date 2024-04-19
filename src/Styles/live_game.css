@@ -1,0 +1,130 @@
+.pai {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+}
+.in-game{
+    display: flex;
+    width: 100%;
+}
+
+
+.scoreboard {
+    display: flex;
+    background: black;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    gap: 25px;
+}
+
+.teamblue {
+    display: flex;
+    gap: 25px;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo-blue {
+    width: 70px;
+    height: 100%;
+
+}
+
+.torres-blue {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.torres_blue_icon {
+    width: 20px;
+    height: 20px;
+}
+
+.vastilarvas-blue {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.vastilarvas_blue_icon {
+    width: 20px;
+    height: 20px;
+}
+
+.ouro-blue {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.ouro_blue_icon {
+    width: 20px;
+    height: 20px;
+}
+
+.teamred {
+    display: flex;
+    gap: 25px;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo-red {
+    width: 70px;
+    height: 100%;
+
+}
+
+.torres-red {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.torres_red_icon {
+    width: 20px;
+    height: 20px;
+}
+
+.vastilarvas-red {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.vastilarvas_red_icon {
+    width: 20px;
+    height: 20px;
+}
+
+.ouro-red {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.ouro_red_icon {
+    width: 20px;
+    height: 20px;
+}
+
+.timer {
+    background-color: black;
+    color: white;
+    width: 100px;
+    height: 35px;
+}

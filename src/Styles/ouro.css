@@ -1,0 +1,22 @@
+.body{
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    gap: 20px;
+}
+
+.lateral-bar{
+    display: flex;
+    background-color: black;
+    width: 30vh;
+    height: auto;
+    align-items: center;
+}
+
+ul{
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    color: white;
+    gap: 20px;
+}
