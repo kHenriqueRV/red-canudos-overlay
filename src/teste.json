@@ -1,0 +1,57 @@
+{
+	"allPlayers": [
+		{
+			"championName": "Dr. Mundo",
+			"isBot": false,
+			"isDead": false,
+			"items": [
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Escudo de Doran",
+					"itemID": 1054,
+					"price": 2500,
+					"rawDescription": "GeneratedTip_Item_1054_Description",
+					"rawDisplayName": "Item_1054_Name",
+					"slot": 0
+				}
+			],
+			"summonerName": "blueplayer",
+			"team": "ORDER"
+		},
+        {
+			"championName": "Dr. Mundo",
+			"isBot": false,
+			"isDead": false,
+			"items": [
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Escudo de Doran",
+					"itemID": 1054,
+					"price": 2500,
+					"rawDescription": "GeneratedTip_Item_1054_Description",
+					"rawDisplayName": "Item_1054_Name",
+					"slot": 0
+				}
+			],
+			"summonerName": "REDTEAM",
+			"team": "CHAOS"
+		}
+	],
+	"events": {
+		"Events": [
+			{
+				"EventID": 0,
+				"EventName": "GameStart",
+				"EventTime": 0.03307979926466942
+			}
+		]
+	},
+	"gameData": {
+		"gameTime": 0.0
+
+	}
+}

@@ -6,7 +6,6 @@
     text-align: center;
     justify-content: center;
     align-items: center;
-    background-color: red;
 }
 .in-game{
     display: flex;
@@ -20,19 +19,23 @@
     color: white;
     align-items: center;
     justify-content: center;
-    width: 80%;
+    width: 55%;
+    padding-left: 10px;
+    padding-right: 10px;
     gap: 25px;
+    height: 63px;
 }
 
 .teamblue {
     display: flex;
     gap: 25px;
-    justify-content: center;
+    width: 45%;
+    justify-content: space-between;
     align-items: center;
 }
 
 .logo-blue {
-    width: 70px;
+    width: 40px;
     height: 100%;
 
 }
@@ -76,12 +79,13 @@
 .teamred {
     display: flex;
     gap: 25px;
-    justify-content: center;
+    width: 45%;
+    justify-content: space-between;
     align-items: center;
 }
 
 .logo-red {
-    width: 70px;
+    width: 50px;
     height: 100%;
 
 }
@@ -125,6 +129,8 @@
 .timer {
     background-color: black;
     color: white;
-    width: 100px;
+    width: 170px;
     height: 35px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
 }
